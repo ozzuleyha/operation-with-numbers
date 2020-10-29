@@ -1,0 +1,10 @@
+C:\Users\Zuleyha Oz\Desktop\NYP\190601066_zuleyhaOz_odev1\190601066_zuleyhaOz_odev1\obj\Debug\190601066_zuleyhaOz_odev1.csprojAssemblyReference.cache
+C:\Users\Zuleyha Oz\Desktop\NYP\190601066_zuleyhaOz_odev1\190601066_zuleyhaOz_odev1\obj\Debug\_190601066_zuleyhaOz_odev1.fSayilarlaIslemler.resources
+C:\Users\Zuleyha Oz\Desktop\NYP\190601066_zuleyhaOz_odev1\190601066_zuleyhaOz_odev1\obj\Debug\_190601066_zuleyhaOz_odev1.Properties.Resources.resources
+C:\Users\Zuleyha Oz\Desktop\NYP\190601066_zuleyhaOz_odev1\190601066_zuleyhaOz_odev1\obj\Debug\190601066_zuleyhaOz_odev1.csproj.GenerateResource.cache
+C:\Users\Zuleyha Oz\Desktop\NYP\190601066_zuleyhaOz_odev1\190601066_zuleyhaOz_odev1\obj\Debug\190601066_zuleyhaOz_odev1.csproj.CoreCompileInputs.cache
+C:\Users\Zuleyha Oz\Desktop\NYP\190601066_zuleyhaOz_odev1\190601066_zuleyhaOz_odev1\bin\Debug\190601066_zuleyhaOz_odev1.exe.config
+C:\Users\Zuleyha Oz\Desktop\NYP\190601066_zuleyhaOz_odev1\190601066_zuleyhaOz_odev1\bin\Debug\190601066_zuleyhaOz_odev1.exe
+C:\Users\Zuleyha Oz\Desktop\NYP\190601066_zuleyhaOz_odev1\190601066_zuleyhaOz_odev1\bin\Debug\190601066_zuleyhaOz_odev1.pdb
+C:\Users\Zuleyha Oz\Desktop\NYP\190601066_zuleyhaOz_odev1\190601066_zuleyhaOz_odev1\obj\Debug\190601066_zuleyhaOz_odev1.exe
+C:\Users\Zuleyha Oz\Desktop\NYP\190601066_zuleyhaOz_odev1\190601066_zuleyhaOz_odev1\obj\Debug\190601066_zuleyhaOz_odev1.pdb
